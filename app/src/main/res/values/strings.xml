@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">SocialMediaKotlin</string>
+    <string name="app_name">Posts</string>
+    <!--    USERS-->
+    <string name="name_sample_text">Kevin Morales</string>
+    <string name="email_sample_text">kfmorales94@gmail.com</string>
+    <string name="username_sample_text">kevinhomorales</string>
+
+    <!--    POSTS-->
+    <string name="title_sample_text">Título</string>
+
+    <!--    POST-->
+    <string name="share_post_text">COMPARTIR</string>
+    <string name="body_sample_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="loading_sample_text">CARGANDO</string>
 </resources>
